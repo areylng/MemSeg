@@ -1,6 +1,6 @@
 # MemSeg
 
-Official implementation for MemSeg: [A semi-supervised method for image surface defect detection using differences and commonalities]:(https://arxiv.org/abs/2205.00908)
+Official implementation for MemSeg: [A semi-supervised method for image surface defect detection using differences and commonalities](https://arxiv.org/abs/2205.00908)
 
 This project contains only the inference code for MemSeg.  
 
